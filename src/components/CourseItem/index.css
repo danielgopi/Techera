@@ -1,0 +1,17 @@
+.listItem {
+  display: flex;
+  list-style: none;
+  margin: 20px;
+  color: #1e293b;
+  font-weight: 600;
+}
+.LinkItems {
+  margin: 10px;
+  font-size: 28px;
+  font-weight: 500;
+  margin-left: 10px;
+}
+.nav-link {
+  text-decoration: none;
+  margin: 8px;
+}

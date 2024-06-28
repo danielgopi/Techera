@@ -1,0 +1,12 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container {
+  padding: 30px;
+}
